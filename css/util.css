@@ -1,9 +1,12 @@
 .max-width1{
-  width: 550px;
+  width: 80vw;
 }
 .max-width2{
-  width: 700px;
+  width: 60vw;
 }
 .m-auto{
   margin: auto;
+}
+.btn {
+  
 }
