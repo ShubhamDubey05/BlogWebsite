@@ -1,0 +1,12 @@
+.navigation{
+  background-color: aquamarine;
+  height: 50px;
+}
+.content{
+  background-color: blueviolet;
+  height: 100px;
+}
+.footer{
+  background-color: brown;
+  height: 25px;
+}
